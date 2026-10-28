@@ -6,9 +6,9 @@
 
 **My redesign:**
 
-![Virginia has twice as many data centers as any other state](Data Centers.png)
+![Virginia has twice as many data centers as any other state](https://github.com/jaip133/datajournalism-fall2026/blob/806627358b246636ce209389521bd8fbb35648be/Data%20Centers.png)
 
-[Link to image file](Data Centers.png)
+[Link to image file](https://github.com/jaip133/datajournalism-fall2026/blob/806627358b246636ce209389521bd8fbb35648be/Data%20Centers.png)
 
 ### What I changed and why
 
