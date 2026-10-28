@@ -24,9 +24,9 @@
 
 **My redesign:**
 
-![Coachella's lineup has shrunk four years in a row](Coachella.png)
+![Coachella's lineup has shrunk four years in a row](Coachella2.png)
 
-[Link to image file](Coachella.png)
+[Link to image file](Coachella2.png)
 
 ### What I changed and why
 
